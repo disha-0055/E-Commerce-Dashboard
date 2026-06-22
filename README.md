@@ -47,3 +47,5 @@ Businesses often struggle to track sales performance and understand customer pur
 * Helped understand profitability across different segments.
 * Enabled better strategic and operational decision-making.
 
+### Screenshot
+https://github.com/disha-0055/E-Commerce-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.jpeg
